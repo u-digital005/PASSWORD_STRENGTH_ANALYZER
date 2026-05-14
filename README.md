@@ -1,9 +1,6 @@
 # PASSWORD_STRENGTH_ANALYZER
-# Password Strength Analyzer
 
 A simple Python tool that checks how strong your password is and gives suggestions to make it better.
-
----
 
 ## What is This?
 
@@ -30,10 +27,6 @@ After checking, it shows you which rules you missed, so you know exactly what to
 - Tells you exactly what is missing in your password
 - Suggests a randomly generated strong password
 - Remembers passwords used in the same session to avoid reuse
-
----
-
-
 
 ## Output
 <img width="576" height="475" alt="Image" src="https://github.com/user-attachments/assets/502928fc-a7bf-491d-a7fa-3f74559d25ee" />
